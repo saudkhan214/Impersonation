@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impersonate", "Impersonate.csproj", "{1F441D46-5636-46FC-849F-329C5AA94D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDFB840-CFA8-4205-BF2F-1BF68B4524E3}
+	EndGlobalSection
+EndGlobal
